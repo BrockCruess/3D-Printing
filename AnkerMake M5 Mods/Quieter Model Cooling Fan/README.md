@@ -12,7 +12,8 @@ Also replace the main extruder cover, keeping the top piece but removing the gre
 ### Print:
 
 The duct and fan mount is a trickier print. It requires supports, 0.1mm layer height is recommended, will likely require some filing to get the fitment and screw hole alignment right.
-I didn't design this part so it's not as precise. It's from [this link](https://www.printables.com/model/357945-ankermake-m5-5015-fan-duct-and-extruder-case)
+I didn't design this part so it's not as precise. It's from [this link](https://www.printables.com/model/357945-ankermake-m5-5015-fan-duct-and-extruder-case).
+I recommend brushing superglue over as much of the ducting as you can, this thing prints very thin and is very brittle.
 
 I did revise the extruder cover to reinforce the screw holes as they were too thin in the original design.
 Print the extruder with supports so the holes and tabs turn out nice.
