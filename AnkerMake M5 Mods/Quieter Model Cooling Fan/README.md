@@ -6,7 +6,7 @@ Also replace the main extruder cover, keeping the top piece but removing the gre
 
 1. WINSINN 5015 24V Blower Fan
 
-2. M3 screw and nut kit
+2. M3 hex screw and nut kit
 
 
 ### Print:
