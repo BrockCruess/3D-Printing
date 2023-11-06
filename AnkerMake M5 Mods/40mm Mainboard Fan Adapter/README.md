@@ -4,21 +4,21 @@ Slides over the mainboard's heat sink, replacing the noisy stock 30mm fan with a
 
 ### Parts:
 
-Winsinn 40mm 24V 4010 Fan
+1. Winsinn 40mm 24V 4010 Fan
 
-M3 screw kit
-\br
+2. M3 screw kit
+
 OR
 
-3 pin Noctua NF-A4x10 FLX
+1. 3 pin Noctua NF-A4x10 FLX
 
-Noctua NA-VC1 24V to 12V Buck Converter
+2. Noctua NA-VC1 24V to 12V Buck Converter
 
-Plug pin header kit and crimp tool
+3. Plug pin header kit and crimp tool
 
-Heat shrink tubing or electrical tape
+4. Heat shrink tubing or electrical tape
 
-M3 screw kit
+5. M3 screw kit
 
 
 
