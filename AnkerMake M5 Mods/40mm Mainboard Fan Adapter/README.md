@@ -6,7 +6,7 @@ Slides over the mainboard's heat sink, replacing the noisy stock 30mm fan with a
 
 1. Winsinn 40mm 24V 4010 Fan
 
-2. M3 screw kit
+2. M3 hex screw kit
 
 OR
 
@@ -18,7 +18,7 @@ OR
 
 4. Heat shrink tubing or electrical tape
 
-5. M3 screw kit
+5. M3 hex screw kit
 
 
 
@@ -37,8 +37,6 @@ Most use a Winsinn 40mm 24V (4010) as the plug end and voltage are the same as t
 
 ### Here's how I achieved total silence:
 
-Buy a 3 pin Noctua NF-A4x10 FLX and a Noctua NA-VC1 24V to 12V Buck Converter.
-Buy a basic 2.54mm pin header kit and crimper. You'll only need the female ends.
 Plug the Noctua fan straight into the buck converter's 12V output end.
 Clip the side off the plastic plug housing on the extension wire that the fan comes with so that it plugs into the buck converter's 24V input end (which is 4 pin but just line up the 3 pins correctly).
 Just look at it and you'll know which side to clip off.
