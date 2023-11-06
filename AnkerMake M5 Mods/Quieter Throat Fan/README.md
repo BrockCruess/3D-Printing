@@ -13,7 +13,7 @@ Replace the loud blower fan and its duct on the side of the extruder with a quie
 
 5. M3 hex screw kit
 
-6. M2 hex screw kit
+6. M2 hex screw kit (optional)
 
 
 ### Print:
