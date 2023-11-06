@@ -27,3 +27,5 @@ Use M3x12 screws to attach the new fan duct to the 2 front right screw holes tha
 Set the height of the duct so that the fan exhaust ports sit 1mm above the extruder nozzle for maximum efficiency.
 Use M3x20 screws and nuts to fasten a 24V 5015 blower fan to the new bracket and plug it into the right side model fan plug.
 Attach the new extruder cover and you're done.
+
+![](https://i.ibb.co/YW6GKss/IMG-1296.jpg)
