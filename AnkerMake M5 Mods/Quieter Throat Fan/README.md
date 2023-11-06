@@ -40,4 +40,4 @@ Bundle the extra wire together with a cable tie or some electrical tape, tuck it
 
 Test fit the modified extruder cover and trim away anything that gets in the way of the fan.
 
-![](https://i.ibb.co/CwW0VFs/IMG-1284.jpg)
+![](https://i.ibb.co/D9cQXKK/IMG-1284.jpg)
