@@ -1,13 +1,42 @@
 Slides over the mainboard's heat sink, replacing the noisy stock 30mm fan with an adapter that holds a 40mm x 10mm fan, quietly blowing more air.
 
-Print:
+
+
+### Parts:
+
+Winsinn 40mm 24V 4010 Fan
+
+M3 screw kit
+\br
+OR
+
+3 pin Noctua NF-A4x10 FLX
+
+Noctua NA-VC1 24V to 12V Buck Converter
+
+Plug pin header kit and crimp tool
+
+Heat shrink tubing or electrical tape
+
+M3 screw kit
+
+
+
+### Print:
+
 Print 2 of them flat side down. Very simple print but the more detailed the better with small parts. I printed at 0.1mm layer height.
 
-Use:
+
+
+### Use:
+
 Slide them over the ends of the mainboard's heat sink so they sit on top and fasten a new 4010 fan to them using the original 2 M3 screws and 2 more M3 x 16 screws.
 Most use a Winsinn 40mm 24V (4010) as the plug end and voltage are the same as the stock fan, by the time you've done all of my silencing mods, the Winsinn 4010 ends up being the loudest fan.
 
-Here's how I achieved total silence:
+
+
+### Here's how I achieved total silence:
+
 Buy a 3 pin Noctua NF-A4x10 FLX and a Noctua NA-VC1 24V to 12V Buck Converter.
 Buy a basic 2.54mm pin header kit and crimper. You'll only need the female ends.
 Plug the Noctua fan straight into the buck converter's 12V output end.
