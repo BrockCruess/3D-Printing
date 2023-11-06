@@ -21,6 +21,7 @@ Replace the loud blower fan and its duct on the side of the extruder with a quie
 This part is from [here](https://www.printables.com/model/447333-ankermake-m5-noctua-heat-sink-fan-adapter/files) but the instructions are a bit misleading.
 You cannot use a 4020 fan (20mm thick). There is only room under the modified extruder cover (see [here](https://github.com/BrockCruess/3D-Printing/tree/main/AnkerMake%20M5%20Mods/Quieter%20Model%20Cooling%20Fan)) for a 10mm thick fan on this new duct,
 and you'll have to snip off the front right 2 posts that the lid snaps to, as well as a bit of material on the inside of the modified cover to make room for the 4010 fan. Even if you removed the extruder cover, a 20mm thick fan would reduce the effective working space of the extruder by colliding with the M5's screen housing.
+
 Print with supports at 0.1mm layer height. Snap off the 40mm fan standoffs, they're useless. I recommend glazing the thin corner areas with a coat of superglue to strengthen them, as well as most of the area around where the 40mm fan attaches. Light filing may be needed to get the holes right.
 
 
