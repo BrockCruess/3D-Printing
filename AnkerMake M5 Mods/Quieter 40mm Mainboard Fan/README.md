@@ -16,7 +16,7 @@ Replace the noisy stock 30mm fan with an adapter that holds a 40mm x 10mm fan, q
 
 ### Print:
 
-- Print 2 of them flat side down. Very simple print but the more detailed the better with small parts.
+- Print 2 of the adapter parts flat side down. A very simple print but the more detailed the better with small parts. I liked 0.1mm layer height for this.
 
 
 
