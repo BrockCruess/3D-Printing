@@ -13,8 +13,7 @@ I included a hole that extends from one of the corners which is useful for hangi
 
 ### Use:
 
-- Mount a 120mm fan to the bracket using longer-style fan screws and nuts.
-- The screws should go from the inside of the bracket to the outside, as there are counter-sunk holes on the inside.
-- This will ensure a flush finish against the SER3.
-- Remove the back plate off the SER3 and lay it into the 120mm bracket open-bottom first.
-- Secure the SER3 in the bracket with the top retainer and use some typical short coarse-thread case fan screws.
+- Mount a 120mm fan to the bracket using longer fan screws and nuts.
+- The screws should go from the inside of the bracket to the outside, as there are counter-sunk holes on the inside. This will ensure a flush fit against the mini PC.
+- Remove the bottom plate off the SER3 and lay it into the 120mm bracket open-bottom first.
+- Secure the SER3 in the bracket with the top retainer and use some typical short coarse-thread case fan screws to self-tap and secure it all together.
